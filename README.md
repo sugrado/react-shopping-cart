@@ -1,5 +1,18 @@
-# Getting Started with Create React App
+# Small Shopping Cart
 
+## Used technologies
+
+- Material UI
+- Axios
+- Bootstrap
+- FontAwesome
+- React Toastify
+- React Router Dom
+- TypeScript
+
+## Component Diagram
+![Diagram](https://raw.githubusercontent.com/sugrado/react-shopping-cart/master/component-diagram.png)
+##
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
