@@ -9,6 +9,7 @@
 - React Toastify
 - React Router Dom
 - TypeScript
+- Json-Server
 
 ## Component Diagram
 ![Diagram](https://raw.githubusercontent.com/sugrado/react-shopping-cart/master/component-diagram.png)
